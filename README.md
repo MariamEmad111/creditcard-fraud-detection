@@ -20,10 +20,13 @@ This project focuses on detecting fraudulent transactions using multiple Machine
    - Class imbalance visualization  
    - Amount/Time distribution  
    - Correlation heatmap  
-   🖼️ _Add the following plots:_  
-     - Bar chart of class distribution  
-     - Histogram of `Amount`  
-     - Heatmap of correlation matrix  
+     ![لقطة شاشة 2025-06-26 190952](https://github.com/user-attachments/assets/70382bf2-b6ee-4d1e-ab72-01ba7b91a946)
+
+![لقطة شاشة 2025-06-26 191038](https://github.com/user-attachments/assets/9679bda2-369f-4fc4-81e9-d4affa910057)
+
+![لقطة شاشة 2025-06-26 191053](https://github.com/user-attachments/assets/96a9821d-cd05-40ee-9970-bad8cbe99213)
+
+
 
 2. **Data Preprocessing**
    - Standardize `Amount` and `Time` features using `StandardScaler`
@@ -67,6 +70,9 @@ This project focuses on detecting fraudulent transactions using multiple Machine
 | Recall (Fraud) | 100% |
 | Precision (Fraud) | 76.92% |
 | F1-score (Fraud) | 86.96% |
+
+![لقطة شاشة 2025-06-26 191347](https://github.com/user-attachments/assets/853e2fe6-3d74-48b9-bff6-00f157571939)
+
 
 ## 🚀 How to Use
 
