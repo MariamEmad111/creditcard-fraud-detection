@@ -1,6 +1,3 @@
-# creditcard-fraud-detection
-Credit card fraud detection using multiple ML models (XGBoost, Random Forest, Logistic Regression) on imbalanced data with SMOTE and Class Weights
-
 # Credit Card Fraud Detection 🕵️‍♀️💳
 
 This project focuses on detecting fraudulent transactions using multiple Machine Learning models applied on imbalanced data. The techniques used to handle class imbalance include **SMOTE (Synthetic Minority Oversampling Technique)** and **Class Weights**.
